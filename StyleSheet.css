@@ -23,12 +23,29 @@ p {
 }
 
 ul {
-  background: #f8e298;
+  background: #dddddd;
   padding: 20px;
 }
 
 ol {
-  background: #f8e298;
+  background: #dddddd;
   padding: 20px;
   margin-left: 60px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-left: 80px;
+}
+
+td, th {
+  border: 1px solid #4e4b4b9f;
+  text-align: left;
+  padding: 8px;
+}
+
+tr {
+  background-color: #dddddd;
 }

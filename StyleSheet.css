@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+  }
+  
+  header {
+    color: navy;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  ul {
+    background: #f8e298;
+    padding: 20px;
+  }
